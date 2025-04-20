@@ -55,3 +55,17 @@ This is a Python GUI tool that batch renames image files (.jpg, .jpeg, .png) in 
 This is a hobby project created as part of my personal Python learning journey.  
 It's a work in progress and I plan to improve it over time.
 
+
+---
+
+## 📺 YouTube 動作ログ / Demo Videos
+
+このツールを実行している様子を、YouTubeのライブ録画で公開しています：  
+▶ https://youtube.com/live/TtEDsZkxpzs?feature=share  
+▶ https://youtube.com/live/5tZB1zcPG_0?feature=share
+
+※ 学習中の記録としてライブで配信したもので、内容は長めです。  
+This is a relaxed learning log recorded via livestream.  
+The videos are long, but show the tool in action during development.
+
+
