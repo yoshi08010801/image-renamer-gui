@@ -44,3 +44,14 @@ This is a Python GUI tool that batch renames image files (.jpg, .jpeg, .png) in 
 ---
 
 🎓 Created as part of a Python learning journey.
+
+---
+
+## 📝 補足 / Notes
+
+このツールは趣味でPythonを学びながら作ったものです。  
+まだまだ改良の余地がありますが、少しずつアップデートしていく予定です。
+
+This is a hobby project created as part of my personal Python learning journey.  
+It's a work in progress and I plan to improve it over time.
+
